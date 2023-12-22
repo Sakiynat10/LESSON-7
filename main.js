@@ -159,3 +159,23 @@
 
 //Array11
 
+// function rangeOutSum(arr, K , L){
+//     let res = arr.fill(K , L+1)
+//     console.log(arr);
+//     let sum = 0;
+//     for(let el of res){
+//         sum += el;
+//     }
+//     // return sum;
+// }
+
+// let arr = [1 , 6, 9 ,5 ,8 ,10 ,15]
+// let s = rangeOutSum(arr, 0 ,2 , 5)
+// console.log(s);
+
+
+
+
+
+//Array12
+
